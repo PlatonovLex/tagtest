@@ -1,5 +1,6 @@
 public class MainClass {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        //Hotfix v1.1.1
+        System.out.println("The world is hell");
     }
 }
