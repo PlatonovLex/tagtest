@@ -3,4 +3,8 @@ public class MainClass {
         //Hotfix v1.1.1
         System.out.println("The world is hell");
     }
+
+    private static void newFeatureMethod() {
+        //Feature 3 and conflict with fix
+    }
 }
